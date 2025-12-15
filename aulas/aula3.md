@@ -1,3 +1,5 @@
+# Aula 3
+
 Começámos a aula do dia 23 a analisar o ciclo de vida dos dados, 
 especificamente o processo ETL e a sua alternativa, o ELT (onde a transformação é feita no fim).
 
