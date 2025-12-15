@@ -1,3 +1,5 @@
+# Aula 7
+
 A sessão centrou-se na Validação e Qualidade de Dados. 
 Analisámos um vasto leque de ferramentas teóricas, desde o data profiling e regras de integridade até métricas como a completude.
 
