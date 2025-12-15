@@ -1,3 +1,5 @@
+# Aula 8
+
 A aula focou-se na automação de integração de dados. 
 Estudámos o panorama das ferramentas ETL, desde as soluções Open Source às Comerciais e Cloud, definindo critérios de seleção baseados em performance e custos.
 
