@@ -1,3 +1,5 @@
+# Aula 10
+
 A aula abordou temas avançados de integração, essenciais para lidar com Big Data. 
 Estudámos o processamento em tempo real vs batch, técnicas de CDC e plataformas de streaming como RabbitMQ e Kafka.
 
